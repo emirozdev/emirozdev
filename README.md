@@ -16,4 +16,4 @@
 
 ### 🌐 Bana Ulaşın
 - [LinkedIn](https://linkedin.com/in/ozturkemirr/)
-- [E-posta](emiroz759@gmail.com)
+- [E-posta] emiroz759@gmail.com
