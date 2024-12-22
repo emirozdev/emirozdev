@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Merhabalar, Ben Emir! 
 
-<!--
-**emirozdev/emirozdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Hakkımda
+- 🎮 Unity ile oyun geliştiriyorum.
+- 🌱 2D oyunlar konusunda uzun süredir kendimi geliştiriyorum.
+- 🎯 Hedeflerim: Unity konusunda uzmanlaşmak ve özel ilgim olan Pixel Art konusunda ilerlemek.
 
-Here are some ideas to get you started:
+### 🛠️ Kullandığım Teknolojiler
+- Unity, C#
+- Pixaquare
+- Git ve GitHub
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Portfolyo Projelerim
+- [2D Platformer Oyunum](https://github.com/kullanıcıAdın/2D-Platformer)
+
+### 🌐 Bana Ulaşın
+- [LinkedIn](https://linkedin.com/in/ozturkemirr/)
+- [E-posta](emiroz759@gmail.com)
