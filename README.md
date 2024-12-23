@@ -8,11 +8,11 @@
 ### 🛠️ Kullandığım Teknolojiler
 - Unity, C#
 - Pixaquare
-- Git ve GitHub
   
 
 ### 🌟 Portfolyo Projelerim
 - [2D Platformer Oyunum](https://github.com/kullanıcıAdın/2D-Platformer)
+- https://emirozdev.itch.io/2d-platformer
 
 ### 🌐 Bana Ulaşın
 - [LinkedIn](https://linkedin.com/in/ozturkemirr/)
