@@ -11,7 +11,7 @@
   
 
 ### 🌟 Portfolyo Projelerim
-- [2D Platformer Oyunum](https://github.com/kullanıcıAdın/2D-Platformer)
+- [2D Platformer Oyunum](https://github.com/emirozdev/2D-Platformer.git)
 - https://emirozdev.itch.io/2d-platformer
 
 ### 🌐 Bana Ulaşın
